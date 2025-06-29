@@ -8,7 +8,7 @@
 .history
 
 
-
+frontend/android/gradle/*.zip
 # Flutter repo-specific
 /bin/cache/
 /bin/internal/bootstrap.bat

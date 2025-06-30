@@ -5,6 +5,7 @@
 [![Flutter](https://img.shields.io/badge/flutter-ui-blue?logo=flutter)](https://flutter.dev/)
 [![Telegram](https://img.shields.io/badge/telegram-bot-blue?logo=telegram)](https://core.telegram.org/bots)
 [![License: MIT](https://img.shields.io/badge/license-MIT-green.svg)](https://opensource.org/licenses/MIT)
+[![codecov](https://codecov.io/gh/PhillMckinnon/TG_WebApp_Flutter_WCTTS/graph/badge.svg?token=EYU0NWND8A)](https://codecov.io/gh/PhillMckinnon/TG_WebApp_Flutter_WCTTS)
 
 > A Telegram mini app for transcribing and synthesizing speech messages using Whisper and Coqui TTS, delivered through a clean Flutter web interface.
 

@@ -6,7 +6,6 @@ on:
       - main
       - dev
     paths:
-      - 'frontend/**'
       - '.github/workflows/docker-frontend.yml'
 
 jobs:

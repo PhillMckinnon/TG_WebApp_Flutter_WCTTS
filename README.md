@@ -1,4 +1,4 @@
-# 🤖🧠 Telegram Voice Assistant Bot
+# 🤖🧠 Telegram Speech Synthesization & Transcription Mini App
 
 [![Docker](https://img.shields.io/badge/docker-compose-blue?logo=docker)](https://docs.docker.com/compose/)
 [![Python](https://img.shields.io/badge/python-3.10+-blue.svg?logo=python)](https://www.python.org/)

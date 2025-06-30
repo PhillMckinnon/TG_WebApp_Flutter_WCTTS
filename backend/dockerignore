@@ -22,7 +22,6 @@ pyinstaller-hooks/
 
 # Build artifacts
 dist/
-build/
 server.spec
 *.egg-info/
 

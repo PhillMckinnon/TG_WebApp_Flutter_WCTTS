@@ -112,7 +112,7 @@ Customize limits and behavior by editing:
 
 | File                  | Purpose                                            |
 | --------------------- | -------------------------------------------------- |
-| `.env`                | API token, file size/duration limits, ngrok domain |
+| `.env`                | BOT token, file size/duration limits, ngrok domain |
 | `ngrok.yml`           | Public tunnel mapping                              |
 | `docker-compose.yml`  | Port exposure and service control                  |
 | `nginx.conf.template` | Proxy rules & CORS support                         |

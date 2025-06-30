@@ -8,7 +8,7 @@ from telegram_web_auth import verify_telegram_webapp
 from dotenv import load_dotenv
 
 load_dotenv()
-BOT_TOKEN = os.getenv('TELEGRAM_BOT_TOKEN')
+BOT_TOKEN = os.getenv('TELEGRAM_BOT_TOKEN', "token")
 
 
 def create_test_init_data(bot_token, auth_date=None):

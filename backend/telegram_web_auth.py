@@ -4,7 +4,7 @@ import urllib.parse
 import os
 from dotenv import load_dotenv
 load_dotenv()
-BOT_TOKEN = os.getenv("TELEGRAM_BOT_TOKEN")
+BOT_TOKEN = os.getenv("TELEGRAM_BOT_TOKEN", "Token")
 
 if not BOT_TOKEN:
     raise ValueError("Telegram bot token not found")

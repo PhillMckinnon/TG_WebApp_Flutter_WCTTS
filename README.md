@@ -8,6 +8,7 @@
 [![codecov](https://codecov.io/gh/PhillMckinnon/TG_WebApp_Flutter_WCTTS/graph/badge.svg?token=EYU0NWND8A)](https://codecov.io/gh/PhillMckinnon/TG_WebApp_Flutter_WCTTS)
 
 > A Telegram mini app for transcribing and synthesizing speech messages using Whisper and Coqui TTS, delivered through a clean Flutter web interface.
+> (based on this previous project - [Speech Transcriber & Synthesizer App](https://github.com/PhillMckinnon/Flutter_Python_Speech_App))
 
 ---
 

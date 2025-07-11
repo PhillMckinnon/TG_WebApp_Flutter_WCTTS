@@ -9,7 +9,7 @@ from dotenv import load_dotenv
 
 load_dotenv()
 BOT_TOKEN = os.getenv('TELEGRAM_BOT_TOKEN', "token")
-#replace with an actual token for accurate tests
+# replace with an actual token for accurate tests
 
 def create_test_init_data(bot_token, auth_date=None):
     if auth_date is None:
